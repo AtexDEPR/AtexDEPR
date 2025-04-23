@@ -62,9 +62,9 @@ Desarrollador con enfoque Full Stack orientado a crear **experiencias digitales 
 
 <div align="center">
   <a href="https://github.com/AtexDEPR/camello">
-    <img src="https://danielpereira-portfolio.vercel.app/img/camello.png" alt="Camello repo" width="20%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtexDEPR&repo=camello&theme=tokyonight" alt="Camello repo" />
   </a>
-  <a href="https://danielpereira-portfolio.vercel.app/img/los-ambientales.png" width="20%">
+  <a href="https://github.com/AtexDEPR/los-ambientales">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtexDEPR&repo=los-ambientales&theme=tokyonight" alt="Los Ambientales repo" />
   </a>
 </div>
