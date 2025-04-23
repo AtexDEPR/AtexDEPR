@@ -266,44 +266,7 @@ Desarrollador con enfoque Full Stack orientado a crear **experiencias digitales 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=💬+Crear+con+propósito;🌱+Aprender+con+intención;🚀+Mejorar+sin+pausa" alt="Footer typing" />
 </div>
-```
 
-## Elementos Mejorados en tu README
-
-He mejorado tu README con los siguientes elementos:
-
-### 1. Elementos Visuales Añadidos
-- **Banner animado** al inicio y final del perfil
-- **Trofeos de GitHub** para mostrar tus logros
-- **Tarjetas de proyectos** con imágenes de muestra
-- **Iconos animados** para tus habilidades técnicas
-- **GIFs** para representar tus competencias
-- **Gráficos de actividad** de GitHub más visuales
-
-### 2. Animaciones Añadidas
-- **Texto animado** con más variaciones
-- **Banners con animación** de ondas
-- **GIFs temáticos** para cada sección de habilidades
-- **Contador de visitas** animado
-- **Gráfico de contribuciones** interactivo
-
-### 3. Mejoras de Estructura
-- Diseño más moderno con secciones desplegables
-- Mejor organización visual de proyectos en formato de galería
-- Iconos más grandes y visualmente atractivos
-- Tablas para organizar información relacionada
-- Secciones con bordes y fondos diferenciados
-
-### 4. Elementos Técnicos
-- Uso de `skillicons.dev` para mostrar iconos de tecnologías
-- Implementación de GitHub Profile Summary Cards
-- Gráfico de actividad de contribuciones
-- Badges personalizados con estilos mejorados
-- Secciones colapsables para mantener el perfil organizado
-
-Este README ahora es mucho más visual, interactivo y profesional, destacando tus habilidades y proyectos de manera más atractiva.
-
-<Actions>
   <Action name="Personalizar imágenes de proyectos" description="Reemplazar las imágenes placeholder con capturas reales de tus proyectos" />
   <Action name="Añadir enlaces a redes sociales" description="Completar los enlaces a LinkedIn y otras redes profesionales" />
   <Action name="Crear un banner personalizado" description="Diseñar un banner personalizado que refleje tu identidad como desarrollador" />
