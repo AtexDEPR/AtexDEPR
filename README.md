@@ -5,13 +5,7 @@
 <h1 align="center">👨‍💻 Atex | Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=React+%7C+Astro+%7C+Spring+Boot+%7C+Django;Creador+de+soluciones+digitales;Siempre+explorando+nuevas+formas+de+crear;Construyendo+cosas+útiles+y+efectivas" alt="Typing animation" />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtexDEPR&style=flat-square&color=blueviolet" alt="profile views" />
-  <a href="https://wakatime.com/@AtexDEPR"><img src="https://wakatime.com/badge/user/AtexDEPR.svg" alt="Total time coded" /></a>
-</div>
 
 <div align="center">
   <a href="mailto:danielpereira.json@gmail.com">
@@ -68,7 +62,7 @@ Desarrollador con enfoque Full Stack orientado a crear **experiencias digitales 
 
 <div align="center">
   <a href="https://github.com/AtexDEPR/camello">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtexDEPR&repo=camello&theme=tokyonight" alt="Camello repo" />
+    <img src="https://danielpereira-portfolio.vercel.app/img/camello.png" alt="Camello repo" />
   </a>
   <a href="https://github.com/AtexDEPR/los-ambientales">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtexDEPR&repo=los-ambientales&theme=tokyonight" alt="Los Ambientales repo" />
